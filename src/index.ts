@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-// `Todo` arayüzü oluşturma (görevlerin veri modelini tanımlar)
+// `Todo` arayüzü oluşturma (görevlerin veri modelini tanımlar
 interface Todo {
     id: string;
     text: string;
