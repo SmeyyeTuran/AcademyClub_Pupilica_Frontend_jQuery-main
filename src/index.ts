@@ -15,7 +15,7 @@ const taskStatus = document.getElementById("task-status") as HTMLSpanElement | n
 const removeCheckedBtn = document.getElementById("remove-checked") as HTMLButtonElement | null;
 
 
-// Sayfa yüklendiğinde görevleri getir
+// Sayfa yüklendiğinde görevleri getirrr
 document.addEventListener("DOMContentLoaded", () => {
     fetchTodos();
 });
